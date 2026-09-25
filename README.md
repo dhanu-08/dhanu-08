@@ -251,7 +251,7 @@ $ neofetch dhananjaya_meher
 ║  ▸ Building academic projects in financial analysis          ║
 ║  ▸ Developing tech projects including portfolio website      ║
 ║  ▸ Gaining domain knowledge in Banking & Investment Mgmt     ║
-║  ▸ Pursuing BFSI, NISM & Bloomberg certifications            ║
+║  ▸ Completed BFSI, NISM & Bloomberg certifications           ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -385,12 +385,12 @@ $ neofetch dhananjaya_meher
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanu-08/dhanu-08/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanu-08/dhanu-08/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dhanu-08/dhanu-08/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanu-08/dhanu-08/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanu-08/dhanu-08/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dhanu-08/dhanu-08/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-> ⚠️ *Snake animation will appear after running the GitHub Action once — go to [Actions tab](https://github.com/dhanu-08/dhanu-08/actions) → Run workflow*
+> 🐍 The contribution snake is generated automatically by GitHub Actions and published to the `output` branch.
 
 </div>
 
