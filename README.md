@@ -2,11 +2,23 @@
 
 <!-- ═══════════════ BANNER ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A192F,50:0B2B40,100:064E3B&height=280&section=header&text=Dhananjaya%20Meher&fontSize=55&fontColor=00D68F&animation=fadeIn&desc=MBA%20Finance%20%26%20IT%20%7C%20Aspiring%20FinTech%20%26%20Banking%20Professional&descSize=18&descColor=CCD6F6&descAlignY=62&fontAlignY=38" width="100%"/>
+<div align="center">
+
+# 👋 Dhananjaya Meher
+
+### MBA Finance & IT • FinTech • Digital Banking • Data Analytics
+
+</div>
 
 <!-- ═══════════════ TYPING SVG ═══════════════ -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D68F&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%24+whoami+→+Dhananjaya+Meher;%24+role+→+MBA+Finance+%26+IT+%40+IBS+Bangalore;%24+mission+→+FinTech+%26+Digital+Banking+Innovation;%24+stack+→+Excel+%7C+SQL+%7C+React+%7C+Financial+Analysis;%24+status+→+Open+to+FinTech+%26+Banking+Roles" alt="Typing SVG" /></a>
+<div align="center">
+
+> 💻 **MBA Finance & IT @ IBS Bangalore**  
+> 🚀 **Aspiring FinTech & Banking Professional**  
+> 📊 **Finance • Data Analytics • SQL • React**
+
+</div>
 
 <!-- ═══════════════ INFO BADGES ═══════════════ -->
 
@@ -44,7 +56,7 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 💼 &nbsp;`> cat about_me.txt`
 
@@ -72,7 +84,7 @@ $ neofetch dhananjaya_meher
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 🛠️ &nbsp;`> ls tech_stack/`
 
@@ -106,7 +118,7 @@ $ neofetch dhananjaya_meher
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 🎯 &nbsp;`> cat specialization.cfg`
 
@@ -130,7 +142,7 @@ $ neofetch dhananjaya_meher
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 📋 &nbsp;`> SELECT * FROM expertise;`
 
@@ -149,7 +161,7 @@ $ neofetch dhananjaya_meher
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 🚀 &nbsp;`> ls featured_projects/`
 
@@ -235,7 +247,7 @@ $ neofetch dhananjaya_meher
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 📚 &nbsp;`> git log --experience`
 
@@ -258,7 +270,7 @@ $ neofetch dhananjaya_meher
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 🏆 &nbsp;`> cat achievements.log`
 
@@ -276,7 +288,7 @@ $ neofetch dhananjaya_meher
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 🎓 &nbsp;`> cat education.sh`
 
@@ -292,93 +304,21 @@ $ neofetch dhananjaya_meher
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 📊 &nbsp;`> ./analytics.sh`
 
 <div align="center">
 
-<a href="https://github.com/dhanu-08">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanu-08&show_icons=true&title_color=00D68F&text_color=CCD6F6&icon_color=00D68F&border_color=112240&bg_color=0A192F&ring_color=00D68F&hide_border=false&count_private=true" height="180"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/dhanu-08">
-  <img src="https://streak-stats.demolab.com?user=dhanu-08&theme=dark&background=0A192F&ring=00D68F&fire=00D68F&currStreakLabel=00D68F&sideLabels=CCD6F6&dates=8892B0&currStreakNum=00D68F&sideNums=CCD6F6&border=112240&stroke=112240" height="180"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/dhanu-08">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu-08&layout=compact&title_color=00D68F&text_color=CCD6F6&icon_color=00D68F&border_color=112240&bg_color=0A192F&hide_border=false&langs_count=8" height="180"/>
-</a>
+<a href="https://github.com/dhanu-08"><img src="https://img.shields.io/github/followers/dhanu-08?style=for-the-badge&label=Followers&labelColor=0A192F&color=00D68F"/></a>
+<a href="https://github.com/dhanu-08?tab=repositories"><img src="https://img.shields.io/github/stars/dhanu-08?style=for-the-badge&label=Stars&labelColor=0A192F&color=00D68F&affiliations=OWNER"/></a>
+<a href="https://github.com/dhanu-08?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-View-00D68F?style=for-the-badge&labelColor=0A192F"/></a>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════ -->
+> 📌 GitHub's contribution calendar below is the primary activity view. The snake animation is generated by GitHub Actions and stored in this repository's `output` branch.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
-
-## 🏅 &nbsp;`> ./trophies.sh`
-
-<div align="center">
-
-<a href="https://github.com/dhanu-08">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanu-08&theme=matrix&column=7&no-bg=true&no-frame=true&margin-w=15&margin-h=15" width="100%"/>
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
-
-## 📈 &nbsp;`> ./activity_graph.sh`
-
-<div align="center">
-
-<a href="https://github.com/dhanu-08">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanu-08&bg_color=0A192F&color=CCD6F6&line=00D68F&point=00D68F&area_color=00D68F&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
-
-## 📇 &nbsp;`> ./summary_cards.sh`
-
-<div align="center">
-
-<a href="https://github.com/dhanu-08">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanu-08&theme=github_dark" width="100%"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/dhanu-08">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanu-08&theme=github_dark" width="32%"/>
-</a>
-&nbsp;
-<a href="https://github.com/dhanu-08">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanu-08&theme=github_dark" width="32%"/>
-</a>
-&nbsp;
-<a href="https://github.com/dhanu-08">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanu-08&theme=github_dark" width="32%"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/dhanu-08">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanu-08&theme=github_dark&utcOffset=5.5" width="49%"/>
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+---
 
 ## 🐍 &nbsp;`> ./snake.sh`
 
@@ -396,7 +336,7 @@ $ neofetch dhananjaya_meher
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 🔭 &nbsp;`> cat current_focus.yaml`
 
@@ -433,7 +373,7 @@ open_to:
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:00D68F,100:0A192F&height=2" width="100%"/>
+<hr>
 
 ## 🤝 &nbsp;`> ./connect.sh`
 
@@ -463,6 +403,6 @@ open_to:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:0B2B40,100:0A192F&height=120&section=footer" width="100%"/>
+<hr>
 
 </div>
